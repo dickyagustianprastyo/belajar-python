@@ -1,0 +1,5 @@
+nilai_a = int(input("masukan nilai_A : "))
+nilai_b = int(input("masukan nilai_B : "))
+nilai_c = int(input("masukan nilai_C : "))
+print("A & B = ", nilai_a & nilai_b )
+print(nilai_c)
